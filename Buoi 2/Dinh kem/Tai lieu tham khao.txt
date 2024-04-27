@@ -1,0 +1,5 @@
+﻿Tham khảo về phân quyền của Oracle trong các file đính kèm ở Mục 4: Configuring Privilege and Role Authorization
+Link:
+- 18c: https://docs.oracle.com/en/database/oracle/oracle-database/18/dbseg/database-security-guide.pdf
+- 19c: https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/database-security-guide.pdf
+- 21c: https://docs.oracle.com/en/database/oracle/oracle-database/21/dbseg/database-security-guide.pdf
